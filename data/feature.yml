@@ -1,0 +1,14 @@
+---
+enable: true
+title: Data Platform là gì?
+description: Data Platform là nền tảng quản lý dữ liệu tập trung. Data Platform giúp thu thập dữ liệu từ nhiều nguồn khác nhau (Big Data) về một chỗ (Data Warehouse). 
+description2: Data Platform có thể xây dựng trên nhiều nền tảng khác nhau (Hadoop, AWS, GCP, Azure) dự trên nền tảng số sẵn có của doanh nghiệp.
+buttonText: Try It Free
+Title2nd: Hãy yên tâm giao mọi việc lại cho chúng tôi
+description2nd: Với đội ngũ kỹ sư chuyên nghiệp, chúng tôi tự tin sẽ tư vấn và triển khai hệ thống data platform phù hợp với nhu cầu doanh nghiệp.
+image1: images/feature/feature-illustration-one.svg
+image2: images/feature/feature-illustration-two.svg
+checkItem:
+  - text: Hệ thống được thiết kế riêng cho mỗi khách hàng.
+  - text: Đồng hành trong việc lựa chọn công nghệ
+  - text: Sẵn sàng hỗ trợ vận hành và bảo trì hệ thống.

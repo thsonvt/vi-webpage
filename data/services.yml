@@ -1,0 +1,16 @@
+#  icons can be found on https://themify.me/themify-icons
+---
+enable: true
+title: Dịch vụ của BeeData
+services:
+  - icon: ti-user
+    title: Tư vấn
+    description: Chúng tôi cung cấp dịch vụ tư vấn dựa trên chiến lược và định hướng phát triển của khách hàng
+
+  - icon: ti-hummer
+    title: Triển Khai
+    description: Hệ thống được xây dựng và triển khai trên nền tảng sẵn có, đảm bảo tối ưu hóa chi phí vận hành
+
+  - icon: ti-key
+    title: Bảo trì
+    description: Không có Data Engineer ư, đừng lo! Chúng tôi sẵn sàng vận hành và bảo trì hệ thống

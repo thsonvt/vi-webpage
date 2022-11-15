@@ -1,0 +1,19 @@
+---
+enable: true
+title: Câu hỏi thường gặp
+description: BeeData sẽ đồng hành cùng doanh nghiệp hướng tới xây dựng hệ thống dữ liệu tập trung hiệu quả và thành công
+faqItem:
+  - question: Chi phí để xây dựng và bảo trì là bao nhiêu?
+    answer: Tùy theo nhu cầu và mô hình kinh doanh của doanh nghiệp, chúng tôi cung cấp dịch vụ với nhiều mức giá khác nhau.
+    dataTarget: One
+    show: show
+
+  - question: Dịch vụ tư vấn gồm những gì?
+    answer: Sau khi tham khảo về mô hình kinh doanh cũng như nhu cầu của doanh nghiệp, chúng tôi sẽ tư vấn công nghệ cũng như kiến trúc chi tiết nhất của hệ thống data platform phù hợp với nền tảng sẵn có
+    dataTarget: Two
+    show: 
+    
+  - question: Data Platform thật sự cần thiết?
+    answer: Data Platform là tiền đề của Data Driven, AI mà Machine Learning. Việc tập trung quản lý dữ liệu về một chỗ giúp doanh nghiệp dễ dàng đưa ra những quyết định ảnh hưởng đến doanh số của công ty hiệu quả nhất thông qua data.
+    dataTarget: Three
+    show: 
