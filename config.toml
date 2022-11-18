@@ -2,7 +2,7 @@
 baseURL = "https://apsho-hugo.netlify.app/"
 languageCode = "en-us"
 title = "BeeData | A data platform outsourcing as a service"
-theme = "apsho"
+theme = "apsho-hugo-theme"
 
 # Navigation Bar
 [[menu.main]]
@@ -32,8 +32,8 @@ theme = "apsho"
     url = "/blog"
     weight = 2
 [[menu.sitemap]]
-    name = "Chính sách"
-    url = "/privacy"
+    name = "English"
+    url = "https://en.beedatasolutions.com"
     weight = 3
 [[menu.sitemap]]
     name = "Liên hệ"
