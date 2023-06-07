@@ -1,16 +1,16 @@
 #  icons can be found on https://themify.me/themify-icons
 ---
 enable: true
-title: Dịch vụ của BeeData
+title: BeeData Academy
 services:
   - icon: ti-user
-    title: Tư vấn
-    description: Chúng tôi cung cấp dịch vụ tư vấn dựa trên chiến lược và định hướng phát triển của khách hàng
+    title: Trainers
+    description: Đội ngũ giảng viên của BeeData 100% làm việc ở các công ty lớn ngoài nước.
 
   - icon: ti-hummer
-    title: Triển Khai
-    description: Hệ thống được xây dựng và triển khai trên nền tảng sẵn có, đảm bảo tối ưu hóa chi phí vận hành
+    title: Khóa học
+    description: Khóa học kéo dài 6 tháng và sát với yêu cầu của doanh nghiệp 99%
 
   - icon: ti-key
-    title: Bảo trì
-    description: Không có Data Engineer ư, đừng lo! Chúng tôi sẵn sàng vận hành và bảo trì hệ thống
+    title: Việc làm
+    description: Với mạng lưới doanh nghiệp rộng lớn, chúng tôi sẽ hỗ trợ các bạn tìm việc sau khi tốt nghiệp

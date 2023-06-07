@@ -13,10 +13,10 @@ theme = "apsho-hugo-theme"
     name = "Về chúng tôi"
     url = "#feature"
     weight = 2
-[[menu.main]]
-    name = "Dịch Vụ"
-    url = "#faq"
-    weight = 3
+# [[menu.main]]
+#     name = "Dịch Vụ"
+#     url = "#faq"
+#     weight = 3
 [[menu.main]]
     name = "Blog"
     url = "#blog"
@@ -48,21 +48,21 @@ phone = "+(65) 90537440"
 
 # Footer Social
 [params.social]
-facebook = "https://www.facebook.com/pg/staticmania"
-twitter = "https://twitter.com/static_mania"
-github = "https://github.com/StaticMania"
+facebook = "https://www.facebook.com/beedatasolutions"
+twitter = "#"
+github = "#"
 
 [params]
 
 # Header
 logo = "images/logo.png"
-fabFormURL = "https://fabform.io/f/zWMBVeW"
+fabFormURL = "https://fabform.io/f/jveULm5"
 googleAnalytics = "UA-175025671-2"
 
 # Footer
 footerTitle = "Tìm hiểu thêm về dịch vụ tư vấn"
 copyright1 = "All right reserved"
-copyright2 = "Copyright ©  <a href=\"https://staticmania.com/\" target=\"_blank\">BeeData Solutions </a> {year}"
+copyright2 = "Copyright ©  <a href=\"https://beedatasolutions.com\" target=\"_blank\">BeeData Solutions </a> {year}"
 
 #contact
 email = "help@staticmania.com"

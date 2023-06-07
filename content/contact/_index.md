@@ -1,3 +1,3 @@
 ---
-title: Chúng tôi sẽ liên lạc ngay
+title: Đăng kí thông tin khóa học
 ---

@@ -1,19 +1,19 @@
 ---
 enable: true
 title: Câu hỏi thường gặp
-description: BeeData sẽ đồng hành cùng doanh nghiệp hướng tới xây dựng hệ thống dữ liệu tập trung hiệu quả và thành công
+description: BeeData sẽ luôn luôn giải đáp thắc mắc của các bạn
 faqItem:
-  - question: Chi phí để xây dựng và bảo trì là bao nhiêu?
-    answer: Tùy theo nhu cầu và mô hình kinh doanh của doanh nghiệp, chúng tôi cung cấp dịch vụ với nhiều mức giá khác nhau.
+  - question: Chi phí cho một khóa học là bao nhiêu?
+    answer: Chi phí dự tính là 60 triệu VND cho 6 tháng. Hiện tại chúng tôi vẫn chưa chốt chi phí cụ thể.
     dataTarget: One
     show: show
 
-  - question: Dịch vụ tư vấn gồm những gì?
-    answer: Sau khi tham khảo về mô hình kinh doanh cũng như nhu cầu của doanh nghiệp, chúng tôi sẽ tư vấn công nghệ cũng như kiến trúc chi tiết nhất của hệ thống data platform phù hợp với nền tảng sẵn có
+  - question: Khóa học có yêu cầu đầu vào hay không ?
+    answer: Để tham gia đồng hành cùng BeeData, bạn phải trải qua 3 giai đoạn bao gồm nộp CV, làm bài test và phỏng vấn bằng tiếng Anh.
     dataTarget: Two
     show: 
     
-  - question: Data Platform thật sự cần thiết?
-    answer: Data Platform là tiền đề của Data Driven, AI mà Machine Learning. Việc tập trung quản lý dữ liệu về một chỗ giúp doanh nghiệp dễ dàng đưa ra những quyết định ảnh hưởng đến doanh số của công ty hiệu quả nhất thông qua data.
+  - question: Khóa học bao gồm những gì?
+    answer: Đến với khóa học Data Engineer, BeeData sẽ cung cấp những kiến thức cần thiết như Data Lakehouse, Data Modeling, cùng xây dựng hệ thống Data Platform thực tế trên AWS, các chia sẻ về AI, Data Mindset đến từ những speaker chuyên nghiệp của BeeData.
     dataTarget: Three
     show: 
