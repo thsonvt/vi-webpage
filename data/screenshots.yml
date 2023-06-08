@@ -1,12 +1,9 @@
 ---
-enable: false
+enable: true
 title: Đội ngũ
 description: Đội ngũ chuyên gia của chúng tôi đều đã và đang làm việc tại những tập đoàn, công ty lớn trong và ngoài nước
 
 images:
-  - url: images/screenshots/slider1.png
-  - url: images/screenshots/slider2.png
-  - url: images/screenshots/slider3.png
-  - url: images/screenshots/slider4.png
-  - url: images/screenshots/slider5.png
-  - url: images/screenshots/slider3.png
+  - url: images/screenshots/canh.png
+  - url: images/screenshots/larry.png
+  - url: images/screenshots/son.png
