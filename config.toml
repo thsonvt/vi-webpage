@@ -33,7 +33,7 @@ theme = "apsho-hugo-theme"
     weight = 2
 [[menu.sitemap]]
     name = "English"
-    url = "https://en.beedatasolutions.com"
+    url = "#"
     weight = 3
 [[menu.sitemap]]
     name = "Liên hệ"
