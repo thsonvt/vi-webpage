@@ -1,7 +1,7 @@
 # MAIN base
 baseURL = "https://apsho-hugo.netlify.app/"
 languageCode = "en-us"
-title = "BeeData | A data platform outsourcing as a service"
+title = "BeeData | Nắm bắt cơ hội, tạo ra giá trị"
 theme = "apsho-hugo-theme"
 
 # Navigation Bar
