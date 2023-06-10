@@ -43,7 +43,7 @@ theme = "apsho-hugo-theme"
 # Footer Address
 [params.address]
 address = "Singapore"
-email = "son@beedatasolutions.com"
+email = "hello@beedatasolutions.com"
 phone = "+(65) 90537440"
 
 # Footer Social
